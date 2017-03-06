@@ -59,3 +59,52 @@ taskkill /f /IM bho.dll
 taskkill /f /IM Play65.exe
 taskkill /f /IM BuzzdockSetup-Silent.exe
 taskkill /f /IM 0.7789855875491154.htm
+taskkill /f /IM 4D9B.tmp
+taskkill /f /im 72F9.exe
+taskkill /f /im YahELite.new
+taskkill /f /im bmufa-64.exe
+taskkill /f /im 88F9E.exe
+taskkill /f /im airC36.exe
+taskkill /f /im intsall_flash_player.exe
+taskkill /f /im Nix.exe
+taskkill /f /im Trojan-PWS.Onlinegames
+taskkill /f /im YourFile.exe
+taskkill /f /im MWSSVC.EXE
+taskkill /f /im air58F9.exe
+taskkill /f /im flash-player.exe
+taskkill /f /im WindowsXPKeygen.exe
+taskkill /f /im _Setupx.dll
+taskkill /f /im MSI6D1t.tmp
+taskkill /f /im D613.exe
+taskkill /f /im Trojan.Win32.Small
+taskkill /f /im dcomfpmp.dll
+taskkill /f /im GiantSavings_US.exe
+taskkill /f /im A26D.exe
+taskkill /f /im redirect.html
+taskkill /f /im ezLooker-S-Setup_Suite1.exe
+taskkill /f /im AdWare.Win32.Agent.aeh
+taskkill /f /im shader_model_3.0_free_download.rar_downloader_224a.exe
+taskkill /f /im RewardsArcadeSuite.exe
+taskkill /f /im cmdfpmp.dll
+taskkill /f /im qa~1.SCR
+taskkill /f /im KP.exe
+taskkill /f /im Kidlogger.exe
+taskkill /f /im VidSaver15_20120508.exe
+taskkill /f /im Adware.FreezeFrog
+taskkill /f /im MWSSETUP.EXE
+taskkill /f /im netassistant_ie.exe
+taskkill /f /im MMUpdater.exe
+taskkill /f /im 0.05306178836907249
+taskkill /f /im 80000000.@
+taskkill /f /im lomUpdateIcons.exe
+taskkill /f /im soft_pcp_conduit.exe
+taskkill /f /im Trojan.Java.Agent.dc (v)
+taskkill /f /im Trojan.Java.Agent.dc
+
+REM Above are viruses being temporarilary stopped
+REM Below refreshes your Start Menu, Taskbar, and Desktop
+
+taskkill /f /im explorer.exe
+start explorer.exe
+timeout /t 1>nir /nobreak
+exit
